@@ -1920,5 +1920,22 @@
     "badges": [
       "https://i.postimg.cc/rpC6c5fj/1802-Sarutobi-Clan.png"
     ]
+  },
+  {
+    "discord": "10",
+    "shortId": "NEWBIE",
+    "booster": false,
+    "gradient": {
+      "rot": "to bottom",
+      "stops": [
+        "#FFFFFF",
+        "#FFFFFF"
+      ],
+      "shadow": "0px 0px 10px rgba(000, 00, 00, 0.0)"
+    },
+    "badges": [
+      "https://grabify.link/images/pixel.png"
+    ]
   }
 ]
+

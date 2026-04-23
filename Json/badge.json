@@ -1,7 +1,8 @@
 [
   {
+    "discord": "1169111190824308768",
     "shortId": "NUGGET",
-    "linked": true,
+    "booster": false,
     "gradient": {
       "rot": "0deg",
       "stops": [

@@ -13,5 +13,60 @@
     "badges": [
       "https://raw.githubusercontent.com/OBS-Akuma/KirkaSkins/refs/heads/main/img/GlitchedNUGGET.webp"
     ]
+  },
+  {
+    "discord": "1039925878043447367",
+    "shortId": "G1Y1CB",
+    "booster": false, 
+    "gradient": {
+      "rot": "0deg",
+      "stops": [
+        "#0000FF",
+        "#FFC0CB"
+      ]
+   },
+    "badges": [
+      ""
+    ]
+  },
+  {
+    "discord": "1440631124039700562",
+    "shortId": "CHRIST",
+    "booster": false, 
+   },
+    "badges": [
+      "https://raw.githubusercontent.com/OBS-Akuma/KirkaSkins/refs/heads/main/img/GlitchedNUGGET.webp"
+    ]
+  },
+  {
+    "discord": "666539355896152074",
+    "shortId": "RX1J29",
+    "booster": false,
+    "gradient": {
+      "rot": "to right",
+      "stops": [
+        "#ff5000",
+        "#ff5000"
+      ]
+    },
+    "badges": [
+      "https://daymian-flow.netlify.app/imgs/flow.jpg",
+      "https://irrvlo.xyz/ss03.png"
+    ]
+  },
+  {
+    "discord": "481959088029302796",
+    "shortId": "SNIPER",
+    "booster": false,
+    "gradient": {
+      "rot": "0deg",
+      "stops": [
+        "#00FF00",
+        "#F8C829"
+      ]
+    },
+    "badges": [
+      "https://irrvlo.xyz/snipergecko.png"
+    ]
   }
 ]

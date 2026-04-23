@@ -1,6 +1,7 @@
 [
   {
     "shortId": "NUGGET",
+    "linked": true,
     "gradient": {
       "rot": "0deg",
       "stops": [

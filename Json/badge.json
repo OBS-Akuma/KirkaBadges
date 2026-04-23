@@ -17,22 +17,23 @@
   {
     "discord": "1039925878043447367",
     "shortId": "G1Y1CB",
-    "booster": false, 
+    "booster": false,
     "gradient": {
       "rot": "0deg",
       "stops": [
         "#0000FF",
         "#FFC0CB"
       ]
-   },
+    },
+    "badges": [
+      "https://raw.githubusercontent.com/OBS-Akuma/KirkaSkins/refs/heads/main/img/G1Y1CB.webp"
+    ]
+  },
   {
     "discord": "1440631124039700562",
     "shortId": "CHRIST",
-    "booster": false, 
-   },
-    "badges": [
-      "https://raw.githubusercontent.com/OBS-Akuma/KirkaSkins/refs/heads/main/img/GlitchedNUGGET.webp"
-    ]
+    "booster": false,
+    "badges": []
   },
   {
     "discord": "666539355896152074",

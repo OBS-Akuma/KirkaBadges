@@ -31,6 +31,38 @@
     ]
   },
   {
+    "shortId": "GLAIVE",
+    "gradient": {
+      "rot": "90deg",
+      "stops": [
+        "#FFFFFF 50%",
+        "#000000 50%",
+        "#878787 100%"
+      ],
+      "shadow": "0px 0px 2px rgb(0, 0, 0)"
+    },
+    "animated": true,
+    "badges": [
+      "https://i.imgur.com/bU2R4aS.png",
+      "https://i.imgur.com/Hz960DQ.png"
+    ]
+  },
+  {
+    "shortId": "T57L43",
+    "gradient": {
+      "rot": "180deg",
+      "stops": [
+        "#ff5900",
+        "#ff5900"
+      ],
+      "shadow": "0px 0px 0.5rem rgba(255,89,0,0.5)"
+    },
+    "badges": [
+      "https://i.imgur.com/JAB7Gsc.png",
+      "https://i.imgur.com/SLUdaWI.png"
+    ]
+  },
+  {
     "discord": "1440631124039700562",
     "shortId": "CHRIST",
     "booster": false,

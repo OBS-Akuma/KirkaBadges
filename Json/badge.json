@@ -168,14 +168,25 @@
     ]
   },
   {
-    "discord": "481959088029302796",
-    "shortId": "SNIPER",
+    "discord": "498010915355099146",
+    "shortId": "SYSTEM",
     "booster": false,
     "gradient": {
       "rot": "0deg",
       "stops": [
         "#00FF00",
         "#F8C829"
+      ]
+  },
+  {
+    "discord": "481959088029302796",
+    "shortId": "SNIPER",
+    "booster": false,
+    "gradient": {
+      "rot": "0deg",
+      "stops": [
+        "#007575",
+        "#004747"
       ]
     },
     "badges": [

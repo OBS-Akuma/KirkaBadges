@@ -52,6 +52,26 @@
     ]
   },
   {
+    "discord": "",
+    "shortId": "VS5H41",
+    "booster": false,
+    "gradient": {
+      "rot": "to right",
+      "stops": [
+        "#ff003c",
+        "#ff2a6d",
+        "#ff00aa",
+        "#d100ff",
+        "#9b00ff",
+        "#7a00ff"
+      ]
+    },
+    "badges": [
+      "https://images.emojiterra.com/google/noto-emoji/unicode-15/color/512px/1f412.png",
+      "https://i.pinimg.com/webp70/736x/de/86/01/de86018e4c2e3b8d2a896c815026aa4e.webp"
+    ]
+  },
+  {
     "discord": "481959088029302796",
     "shortId": "SNIPER",
     "booster": false,

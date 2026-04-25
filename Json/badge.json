@@ -133,5 +133,20 @@
     "badges": [
       "https://irrvlo.xyz/snipergecko.png"
     ]
+  },
+  {
+    "shortId": "JUICER",
+    "gradient": {
+      "rot": "to top",
+      "stops": [
+        "#FF9900 0%",
+        "#FCC442 20%",
+        "#FFFFFF 60%"
+      ],
+      "shadow": "0px 0px 0.25rem rgba(255,153,0,0.5)"
+    },
+    "badges": [
+      "https://irrvlo.xyz/irrvlo.png"
+    ]
   }
 ]

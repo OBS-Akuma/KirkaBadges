@@ -174,10 +174,13 @@
     "gradient": {
       "rot": "0deg",
       "stops": [
-        "#00FF00",
-        "#F8C829"
+        "#fcfcfc",
+        "#ff0000"
       ]
-  },
+      "badges": [
+        "https://raw.githubusercontent.com/OBS-Akuma/KirkaBadges/refs/heads/main/Json/img/image.webp"
+      ]
+    },
   {
     "discord": "481959088029302796",
     "shortId": "SNIPER",

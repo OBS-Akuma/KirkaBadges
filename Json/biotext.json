@@ -13,5 +13,20 @@
     "shortid": "JUICER",
     "text": "Og Developer of Juice Client",
     "image": "https://irrvlo.xyz/irrvlo.png"
+  },
+  {
+    "shortid": "CARRYG",
+    "text": "for Chest/Pack opener, Map Images Repo, Market Names, and Custom List Price",
+    "image": "https://avatars.githubusercontent.com/u/125906244?s=64&v=4"
+  },
+  {
+    "shortid": "UNKNOWN",
+    "text": "Developer for optimizations",
+    "image": "https://avatars.githubusercontent.com/u/119903110?v=4"
+  },
+  {
+    "shortid": "ROBERT",
+    "text": "various bug fixes, optimizations, and tweaks",
+    "image": "https://avatars.githubusercontent.com/u/136381220?s=64&v=4"
   }
 ]

@@ -237,7 +237,7 @@
         "#fcfcfc 20%",
         "#ff0000 60%"
       ],
-      "shadow": "0px 0px 0.25rem rgb(255, 0, 0);"
+      "shadow": "0px 0px 0.25rem rgba(255, 0, 0)"
     },
     "badges": [
       "https://raw.githubusercontent.com/OBS-Akuma/KirkaBadges/refs/heads/main/Json/img/image.webp"

@@ -199,21 +199,6 @@
     ]
   },
   {
-    "discord": "498010915355099146",
-    "shortId": "SYSTEM",
-    "booster": false,
-    "gradient": {
-      "rot": "0deg",
-      "stops": [
-        "#fcfcfc",
-        "#ff0000"
-      ],
-      "badges": [
-        "https://raw.githubusercontent.com/OBS-Akuma/KirkaBadges/refs/heads/main/Json/img/image.webp"
-      ]
-    }
-  },
-  {
     "discord": "481959088029302796",
     "shortId": "SNIPER",
     "booster": false,
@@ -241,6 +226,21 @@
     },
     "badges": [
       "https://irrvlo.xyz/irrvlo.png"
+    ]
+  },
+  {
+    "shortId": "SYSTEM",
+    "gradient": {
+      "rot": "to top",
+      "stops": [
+        "#fcfcfc 0%",
+        "#fcfcfc 20%",
+        "#ff0000 60%"
+      ],
+      "shadow": "0px 0px 0.25rem rgba(255,153,0,0.5)"
+    },
+    "badges": [
+      "ttps://raw.githubusercontent.com/OBS-Akuma/KirkaBadges/refs/heads/main/Json/img/image.webp"
     ]
   },
   {

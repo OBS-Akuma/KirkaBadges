@@ -2,7 +2,15 @@
   {
     "shortid": "NUGGET",
     "text": "Smudgy client && Extension Developer",
-    "image": "https://www.smudgy.store/uploads/icon.png"
+    "image": "https://www.smudgy.store/uploads/icon.png",
+    "Github": {
+      "image": "https://github.com/favicon.ico",
+      "link": "https://github.com/OBS-Akuma"
+    },
+    "Website": {
+      "image": "https://www.smudgy.store/uploads/icon.png",
+      "link": "https://Smudgy.store"
+    }
   },
   {
     "shortid": "WERWER",

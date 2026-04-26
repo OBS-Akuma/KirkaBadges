@@ -31,6 +31,21 @@
     ]
   },
   {
+    "discord": "",
+    "shortId": "ESCROW",
+    "booster": false,
+    "gradient": {
+      "rot": "0deg",
+      "stops": [
+        "#98FB98",
+        "#228B22"
+      ]
+    },
+    "badges": [
+      "https://i.pinimg.com/736x/25/52/cf/2552cf2d58f9c51cd1a7af03bc937520.jpg"
+    ]
+  },
+  {
     "shortId": "UVPIAP",
     "gradient": {
       "rot": "to right",

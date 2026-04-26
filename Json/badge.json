@@ -208,11 +208,10 @@
         "#fcfcfc",
         "#ff0000"
       ],
-      "shadow": "0px 0px 0.5rem rgba(30,196,99,0.5)"
-    },
       "badges": [
         "https://raw.githubusercontent.com/OBS-Akuma/KirkaBadges/refs/heads/main/Json/img/image.webp"
       ]
+    }
   },
   {
     "discord": "481959088029302796",
@@ -1773,4 +1772,5 @@
     "discord": "999560372677791794",
     "shortId": "TRNCE1",
     "booster": false
-  }]
+  }
+]

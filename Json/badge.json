@@ -113,6 +113,22 @@
     ]
   },
   {
+    "discord": "751238103993417760",
+    "shortId": "TRE873",
+    "booster": false,
+    "gradient": {
+      "rot": "to top",
+      "stops": [
+        "#FF1493",
+        "#FFB6C1",
+        "#FF1493"
+      ]
+    },
+    "badges": [
+      "https://media.tenor.com/WSKa1db_xOoAAAAj/furry-dance.gif"
+    ]
+  },
+  {
     "discord": "",
     "shortId": "VS5H41",
     "booster": false,

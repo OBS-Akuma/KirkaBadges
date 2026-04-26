@@ -49,10 +49,6 @@
     "discord": "757969611236048967",
     "shortId": "POOKIE",
     "booster": false,
-    "gradient": {
-      "rot": "0deg",
-      "stops": []
-    },
     "badges": [
       "https://raw.githubusercontent.com/OBS-Akuma/KirkaBadges/refs/heads/main/Json/img/Squirt.png"
     ]

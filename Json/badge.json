@@ -133,6 +133,23 @@
     ]
   },
   {
+    "discord": "1166208701275844650",
+    "shortId": "E779VY",
+    "booster": false,
+    "gradient": {
+        "rot": "to right",
+        "stops": [
+          "#1A1A1A",
+          "#4B0082",
+          "#800080",
+          "#7851A9",
+          "#DC143C",
+          "#FF0000"
+        ]
+    },
+    "badges": []
+  },
+  {
     "discord": "",
     "shortId": "1LEJ1I",
     "booster": false,

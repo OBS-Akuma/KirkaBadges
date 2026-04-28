@@ -113,6 +113,7 @@
     "discord": "666539355896152074",
     "shortId": "MEXICO",
     "booster": false,
+    "font": "https://fonts.googleapis.com/css2?family=Bungee&display=swap",
     "gradient": {
       "rot": "to right",
       "stops": [

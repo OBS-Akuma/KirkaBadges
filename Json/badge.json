@@ -278,6 +278,7 @@
   },
   {
     "shortId": "SYSTEM",
+    "font": "https://fonts.googleapis.com/css2?family=Rubik+Storm&display=swap",
     "gradient": {
       "rot": "to top",
       "stops": [

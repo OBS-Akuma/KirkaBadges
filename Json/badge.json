@@ -11,8 +11,7 @@
       ]
     },
     "badges": [
-      "https://raw.githubusercontent.com/OBS-Akuma/KirkaSkins/refs/heads/main/img/GlitchedNUGGET.webp",
-      "https://raw.githubusercontent.com/OBS-Akuma/Akumaware.one/refs/heads/main/public/img/404.gif"
+      "https://cdn.discordapp.com/emojis/1348476502299119626.webp"
     ]
   },
   {
@@ -288,6 +287,20 @@
     },
     "badges": [
       "https://raw.githubusercontent.com/OBS-Akuma/KirkaBadges/refs/heads/main/Json/img/image.webp"
+    ]
+  },
+  {
+    "discord": "924303535879888916",
+    "shortId": "CAYDUB",
+    "gradient": {
+      "rot": "to top",
+      "stops": [
+        "#5800e6 20%",
+        "#7f30ff 60%"
+      ]
+    },
+    "badges": [
+      "https://images.emojiterra.com/google/noto-emoji/unicode-17.0/color/svg/1f9c3.svg"
     ]
   },
   {

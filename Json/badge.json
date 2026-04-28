@@ -3,6 +3,7 @@
     "discord": "1169111190824308768",
     "shortId": "NUGGET",
     "booster": false,
+    "font": "https://raw.githubusercontent.com/imnotkoolkid/KCH/main/resources/obs-page/Minecraft.ttf",
     "gradient": {
       "rot": "0deg",
       "stops": [

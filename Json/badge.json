@@ -159,6 +159,18 @@
     ]
   },
   {
+    "discord": "1439514619218755585",
+    "shortId": "FFAHG8",
+    "booster": false,
+    "gradient": {
+      "rot": "to right",
+      "stops": [
+        "#CA7C4F",
+        "#FF2600"
+      ]
+    },
+  },
+  {
     "discord": "751238103993417760",
     "shortId": "TRE873",
     "booster": false,

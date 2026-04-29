@@ -89,6 +89,16 @@
     ]
   },
   {
+    "shortId": "5QL4VP",
+    "gradient": {
+      "rot": "to top",
+      "stops": [
+        "#FF00AE 5%",
+        "#79C7D9 72%"
+      ]
+      "badges": []
+  },
+  {
     "shortId": "T57L43",
     "gradient": {
       "rot": "180deg",

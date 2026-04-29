@@ -89,7 +89,9 @@
     ]
   },
   {
+    "discord": "",
     "shortId": "5QL4VP",
+    "booster": false,
     "gradient": {
       "rot": "to top",
       "stops": [
@@ -97,9 +99,9 @@
         "#79C7D9 72%"
       ]
     },
-      "badges": [
-        "https://raw.githubusercontent.com/OBS-Akuma/KirkaBadges/refs/heads/main/Json/img/5QL4VP.webp"
-      ]
+    "badges": [
+      "https://raw.githubusercontent.com/OBS-Akuma/KirkaBadges/refs/heads/main/Json/img/5QL4VP.webp"
+    ]
   },
   {
     "shortId": "T57L43",

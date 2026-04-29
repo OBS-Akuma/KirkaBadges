@@ -157,6 +157,19 @@
     "badges": []
   },
   {
+    "discord": "728104078428733452",
+    "shortId": "FUYR7K",
+    "booster": false,
+    "gradient": {
+      "rot": "to top",
+      "stops": [
+        "#00ffff",
+        "#000000"
+      ]
+    },
+    "badges": []
+  },
+  {
     "discord": "",
     "shortId": "VS5H41",
     "booster": false,

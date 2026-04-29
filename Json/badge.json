@@ -112,7 +112,7 @@
   {
     "shortId": "99KI3O",
     "booster": false,
-    "font": "https://fonts.googleapis.com/css2?family=Cinzel:wght@400..900&display=swap"
+    "font": "https://fonts.googleapis.com/css2?family=Cinzel:wght@400..900&display=swap",
     "gradient": {
       "rot": "to top",
       "stops": [

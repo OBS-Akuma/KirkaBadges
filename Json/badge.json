@@ -127,7 +127,7 @@
     ]
   },
   {
-    "discord": "943374092466262036",
+    "discord": "751238103993417760",
     "shortId": "TRE873",
     "booster": false,
     "gradient": {
@@ -138,23 +138,23 @@
         "#9B59B6"
       ]
     },
-    "badges": []
+    "badges": [
+      "https://media.tenor.com/WSKa1db_xOoAAAAj/furry-dance.gif"
+    ]
   },
   {
-    "discord": "751238103993417760",
+    "discord": "943374092466262036",
     "shortId": "CARSON",
     "booster": false,
     "gradient": {
       "rot": "to top",
       "stops": [
-        "#FF1493",
-        "#FFB6C1",
-        "#FF1493"
+        "#FF5733",
+        "#D5006D",
+        "#9B59B6"
       ]
     },
-    "badges": [
-      "https://media.tenor.com/WSKa1db_xOoAAAAj/furry-dance.gif"
-    ]
+    "badges": []
   },
   {
     "discord": "",

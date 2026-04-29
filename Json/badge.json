@@ -110,6 +110,23 @@
     "badges": []
   },
   {
+    "shortId": "99KI3O",
+    "booster": false,
+    "font": "https://fonts.googleapis.com/css2?family=Cinzel:wght@400..900&display=swap"
+    "gradient": {
+      "rot": "to top",
+      "stops": [
+        "#ffac33 0%",
+        "#ffd983 20%",
+        "#ffffff 60%"
+      ],
+      "shadow": "0px 0px 0.25rem rgba(255,172,51,0.5)"
+    },
+    "badges": [
+      "https://i.imgur.com/N37HT5h.png"
+    ]
+  },
+  {
     "discord": "666539355896152074",
     "shortId": "MEXICO",
     "booster": false,
@@ -1847,12 +1864,6 @@
     "discord": "993927954662953142",
     "shortId": "69TH59",
     "booster": false
-  },
-  {
-    "discord": "994748187753590945",
-    "shortId": "99KI3O",
-    "booster": false,
-    "font": "https://fonts.googleapis.com/css2?family=Cinzel:wght@400..900&display=swap"
   },
   {
     "discord": "995943445396992000",

@@ -127,8 +127,22 @@
     ]
   },
   {
-    "discord": "751238103993417760",
+    "discord": "943374092466262036",
     "shortId": "TRE873",
+    "booster": false,
+    "gradient": {
+      "rot": "to top",
+      "stops": [
+        "#FF5733",
+        "#D5006D",
+        "#9B59B6"
+      ]
+    },
+    "badges": []
+  },
+  {
+    "discord": "751238103993417760",
+    "shortId": "CARSON",
     "booster": false,
     "gradient": {
       "rot": "to top",

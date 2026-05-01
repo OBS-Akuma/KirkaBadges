@@ -32,6 +32,7 @@
          ]
       },
       "badges": [
+         "https://raw.githubusercontent.com/OBS-Akuma/KirkaBadges/refs/heads/main/Json/img/ogu.png",
          "https://raw.githubusercontent.com/OBS-Akuma/KirkaSkins/refs/heads/main/img/G1Y1CB.gif"
       ]
    },
@@ -1889,11 +1890,6 @@
    {
       "discord": "1305730473145794570",
       "shortId": "ARQ1L4",
-      "booster": false
-   },
-   {
-      "discord": "728104078428733452",
-      "shortId": "FUYR7K",
       "booster": false
    },
    {

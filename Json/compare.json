@@ -21,6 +21,22 @@
       "booster": false
    },
    {
+      "discord": "1039925878043447367",
+      "shortId": "G1Y1CB",
+      "booster": false,
+      "gradient": {
+         "rot": "0deg",
+         "stops": [
+            "#0000FF",
+            "#FFC0CB"
+         ]
+      },
+      "badges": [
+         "https://raw.githubusercontent.com/OBS-Akuma/KirkaBadges/refs/heads/main/Json/img/ogu.png",
+         "https://raw.githubusercontent.com/OBS-Akuma/KirkaSkins/refs/heads/main/img/G1Y1CB.gif"
+      ]
+   },
+   {
       "discord": "330501044532674570",
       "shortId": "ESCROW",
       "booster": false,
@@ -834,11 +850,6 @@
    {
       "discord": "1232932047555919916",
       "shortId": "SLIRZK",
-      "booster": false
-   },
-   {
-      "discord": "1233193437168271370",
-      "shortId": "1XJNNT",
       "booster": false
    },
    {

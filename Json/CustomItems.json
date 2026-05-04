@@ -8,9 +8,11 @@
       }
     },
     "component": {
-      "class": "weapon-skin VITA",
+      "class": "weapon-skin Tomahawk",
       "image": {
         "src": "https://kirka.io/assets/img/render-mini.e0bf7037.webp",
+        "texture": "https://kirka.io/assets/img/texture.e54330dc.webp",
+        "glb": "https://kirka.io/assets/glb/7018de07dd76dcdf6721a13b1b5bec61.glb",
         "alt": "subject",
         "class": "subj-img"
       },

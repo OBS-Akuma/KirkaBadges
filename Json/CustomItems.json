@@ -24,6 +24,31 @@
     "itemName": "Abstract"
   },
   {
+    "shortId": "NUGGET",
+    "raritySkin": {
+      "class": "rar-skin",
+      "style": {
+        "background": "linear-gradient(135deg, rgb(255, 185, 20) 0%, rgb(255, 140, 0) 50%, rgb(255, 185, 20) 100%)"
+      }
+    },
+    "component": {
+      "class": "weapon-skin SHARK",
+      "image": {
+        "src": "https://kirka.io/assets/img/render-mini.41493157.webp",
+        "texture": "https://kirka.io/assets/img/texture.173a7352.webp",
+        "glb": "https://kirka.io/assets/glb/6f169dc73e9d81ecbf47b767e7fdefb2.glb",
+        "alt": "subject",
+        "class": "subj-img"
+      },
+      "bottomSection": {
+        "class": "bottom-subj",
+        "count": 1
+      }
+    },
+    "itemName": "Aurora"
+  }
+],
+  {
     "shortId": "HIDDEN",
     "raritySkin": {
       "class": "rar-skin",

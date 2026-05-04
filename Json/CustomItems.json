@@ -72,6 +72,30 @@
     "itemName": "Flowstate"
   },
   {
+    "shortId": "NUGGET",
+    "raritySkin": {
+      "class": "rar-skin",
+      "style": {
+        "background": "linear-gradient(177.48deg, rgb(137, 4, 20) -5.29%, rgb(197, 6, 30) 101.55%)"
+      }
+    },
+    "component": {
+      "class": "weapon-skin VITA",
+      "image": {
+        "src": "https://kirka.io/assets/img/render-mini.e0431f08.webp",
+        "texture": "https://kirka.io/assets/img/texture.61f1b0de.webp",
+        "glb": "https://kirka.io/assets/glb/0abe2f6dc5fd42886656add09d385342.glb",
+        "alt": "subject",
+        "class": "subj-img"
+      },
+      "bottomSection": {
+        "class": "bottom-subj",
+        "count": 69
+      }
+    },
+    "itemName": "Lunar"
+  },
+  {
     "shortId": "HIDDEN",
     "raritySkin": {
       "class": "rar-skin",

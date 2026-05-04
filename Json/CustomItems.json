@@ -1,0 +1,46 @@
+[
+  {
+    "shortId": "NUGGET",
+    "raritySkin": {
+      "class": "rar-skin",
+      "style": {
+        "background": "linear-gradient(177.48deg, rgb(0, 0, 0) -5.29%, rgb(14, 14, 14) 101.55%)"
+      }
+    },
+    "component": {
+      "class": "weapon-skin VITA",
+      "image": {
+        "src": "https://kirka.io/assets/img/render-mini.07b9ae66.webp",
+        "alt": "subject",
+        "class": "subj-img"
+      },
+      "bottomSection": {
+        "class": "bottom-subj",
+        "count": 2
+      }
+    },
+    "itemName": "Wiggleworp"
+  },
+  {
+    "shortId": "HIDDEN",
+    "raritySkin": {
+      "class": "rar-skin",
+      "style": {
+        "background": "linear-gradient(177.48deg, rgb(0, 0, 0) -5.29%, rgb(14, 14, 14) 101.55%)"
+      }
+    },
+    "component": {
+      "class": "weapon-skin VITA",
+      "image": {
+        "src": "https://kirka.io/assets/img/render-mini.07b9ae66.webp",
+        "alt": "subject",
+        "class": "subj-img"
+      },
+      "bottomSection": {
+        "class": "bottom-subj",
+        "count": 2
+      }
+    },
+    "itemName": "Wiggleworp"
+  }
+]

@@ -4,7 +4,7 @@
     "raritySkin": {
       "class": "rar-skin",
       "style": {
-        "background": "linear-gradient(177.48deg, rgb(0, 0, 0) -5.29%, rgb(14, 14, 14) 101.55%);"
+        "background": "linear-gradient(177.48deg, rgb(0, 0, 0) -5.29%, rgb(14, 14, 14) 101.55%)"
       }
     },
     "component": {
@@ -28,7 +28,7 @@
     "raritySkin": {
       "class": "rar-skin",
       "style": {
-        "background": "background: linear-gradient(177.48deg, rgb(137, 4, 20) -5.29%, rgb(197, 6, 30) 101.55%);"
+        "background": "background: linear-gradient(177.48deg, rgb(137, 4, 20) -5.29%, rgb(197, 6, 30) 101.55%)"
       }
     },
     "component": {

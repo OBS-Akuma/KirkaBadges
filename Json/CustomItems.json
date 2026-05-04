@@ -4,7 +4,7 @@
     "raritySkin": {
       "class": "rar-skin",
       "style": {
-        "background": "linear-gradient(177.48deg, rgb(0, 0, 0) -5.29%, rgb(14, 14, 14) 101.55%)"
+        "background": "linear-gradient(177.48deg, rgb(0, 0, 0) -5.29%, rgb(14, 14, 14) 101.55%);"
       }
     },
     "component": {
@@ -28,14 +28,14 @@
     "raritySkin": {
       "class": "rar-skin",
       "style": {
-        "background": "linear-gradient(135deg, rgb(255, 185, 20) 0%, rgb(255, 140, 0) 50%, rgb(255, 185, 20) 100%)"
+        "background": "background: linear-gradient(177.48deg, rgb(137, 4, 20) -5.29%, rgb(197, 6, 30) 101.55%);"
       }
     },
     "component": {
       "class": "weapon-skin SHARK",
       "image": {
         "src": "https://kirka.io/assets/img/render-mini.41493157.webp",
-        "texture": "https://kirka.io/assets/img/texture.173a7352.webp",
+        "texture": "https://kirka.io/assets/img/texture.9d4126b8.webp",
         "glb": "https://kirka.io/assets/glb/6f169dc73e9d81ecbf47b767e7fdefb2.glb",
         "alt": "subject",
         "class": "subj-img"
@@ -52,7 +52,7 @@
     "raritySkin": {
       "class": "rar-skin",
       "style": {
-        "background": "linear-gradient(177.48deg, rgb(0, 0, 0) -5.29%, rgb(14, 14, 14) 101.55%)"
+        "background": "linear-gradient(177.48deg, rgb(137, 4, 20) -5.29%, rgb(197, 6, 30) 101.55%);"
       }
     },
     "component": {

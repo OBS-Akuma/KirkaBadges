@@ -1,4 +1,20 @@
 [
+   {  
+      "discord": "498010915355099146",
+      "shortId": "SYSTEM",
+      "font": "https://fonts.googleapis.com/css2?family=Rubik+Storm&display=swap",
+      "gradient": {
+         "rot": "to top",
+         "stops": [
+            "#fcfcfc 0%",
+            "#fcfcfc 20%",
+            "#ff0000 60%"
+         ]
+      },
+      "badges": [
+         "https://raw.githubusercontent.com/OBS-Akuma/KirkaBadges/refs/heads/main/Json/img/image.webp"
+      ]
+   },
    {
       "discord": "1169111190824308768",
       "shortId": "NUGGET",
@@ -372,21 +388,6 @@
       },
       "badges": [
          "https://irrvlo.xyz/irrvlo.png"
-      ]
-   },
-   {
-      "shortId": "SYSTEM",
-      "font": "https://fonts.googleapis.com/css2?family=Rubik+Storm&display=swap",
-      "gradient": {
-         "rot": "to top",
-         "stops": [
-            "#fcfcfc 0%",
-            "#fcfcfc 20%",
-            "#ff0000 60%"
-         ]
-      },
-      "badges": [
-         "https://raw.githubusercontent.com/OBS-Akuma/KirkaBadges/refs/heads/main/Json/img/image.webp"
       ]
    },
    {

@@ -127,6 +127,20 @@
       ]
    },
    {
+      "discord": "1427472172217012345",
+      "shortId": "YCUVWY",
+      "gradient": {
+         "rot": "to top",
+         "stops": [
+            "#FFFFFF 50%",
+            "#000000 50%",
+            "#878787 100%"
+         ],
+         "shadow": "0px 0px 2px rgb(0, 0, 0)"
+      },
+      "badges": []
+   },
+   {
       "discord": "1353571756157308957",
       "shortId": "5QL4VP",
       "booster": false,

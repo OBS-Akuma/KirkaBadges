@@ -21,19 +21,14 @@
       "booster": false,
       "font": "https://raw.githubusercontent.com/imnotkoolkid/KCH/main/resources/obs-page/Minecraft.ttf",
       "gradient": {
-         "rot": "90deg",
+         "rot": "0deg",
          "stops": [
-            "#FF0000",
-            "#FF7F00",
-            "#FFFF00",
             "#00FF00",
-            "#0000FF",
-            "#4B0082",
-            "#8B00FF"
+            "#F8C829"
          ]
       },
       "badges": [
-         "https://badges.vencord.dev/badges/337885677486211073/2-ee8b43cc83073a6ed8a0cc5407b4098156775278.png"
+         "https://cdn.discordapp.com/emojis/1348476502299119626.webp"
       ]
    },
    {
@@ -206,10 +201,15 @@
       "booster": false,
       "font": "https://fonts.googleapis.com/css2?family=Bungee&display=swap",
       "gradient": {
-         "rot": "to right",
+         "rot": "90deg",
          "stops": [
-            "#ff5000",
-            "#ff5000"
+            "#FF0000",
+            "#FF7F00",
+            "#FFFF00",
+            "#00FF00",
+            "#0000FF",
+            "#4B0082",
+            "#8B00FF"
          ]
       },
       "badges": [

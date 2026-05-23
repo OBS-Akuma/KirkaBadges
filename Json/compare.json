@@ -201,10 +201,15 @@
       "booster": false,
       "font": "https://fonts.googleapis.com/css2?family=Bungee&display=swap",
       "gradient": {
-         "rot": "to right",
+         "rot": "90deg",
          "stops": [
-            "#ff5000",
-            "#ff5000"
+            "#FF0000",
+            "#FF7F00",
+            "#FFFF00",
+            "#00FF00",
+            "#0000FF",
+            "#4B0082",
+            "#8B00FF"
          ]
       },
       "badges": [

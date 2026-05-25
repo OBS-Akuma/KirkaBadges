@@ -22,10 +22,10 @@
       "booster": false,
       "font": "https://raw.githubusercontent.com/imnotkoolkid/KCH/main/resources/obs-page/Minecraft.ttf",
       "gradient": {
-         "rot": "0deg",
+         "rot": "135deg",
          "stops": [
-            "#00FF00",
-            "#F8C829"
+            "#ffffff",
+            "#1A8E50"
          ]
       },
       "badges": [

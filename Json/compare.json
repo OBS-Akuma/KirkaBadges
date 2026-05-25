@@ -22,10 +22,10 @@
       "booster": false,
       "font": "https://raw.githubusercontent.com/imnotkoolkid/KCH/main/resources/obs-page/Minecraft.ttf",
       "gradient": {
-         "rot": "0deg",
+         "rot": "135deg",
          "stops": [
-            "#00FF00",
-            "#F8C829"
+            "#ffffff",
+            "#1A8E50"
          ]
       },
       "badges": [
@@ -71,6 +71,13 @@
       },
       "badges": [
          "https://i.pinimg.com/736x/25/52/cf/2552cf2d58f9c51cd1a7af03bc937520.jpg"
+      ]
+   },
+   {
+      "shortId": "VVUQRY",
+      "booster": false,
+      "badges": [
+         "https://badges.vencord.dev/badges/1311164671931322409/7-538e389102103bb320f738e5f9f356fec8292c43.webp"
       ]
    },
    {

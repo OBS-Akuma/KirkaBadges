@@ -1,5 +1,5 @@
 [
-   {  
+   {
       "discord": "498010915355099146",
       "shortId": "SYSTEM",
       "reason1": "Dev gift",
@@ -2002,6 +2002,11 @@
    {
       "discord": "1298623218516758533",
       "shortId": "VVUQRY",
+      "booster": false
+   },
+   {
+      "shortId": "AWESOME",
+      "discord": "771601176155783198",
       "booster": false
    }
 ]

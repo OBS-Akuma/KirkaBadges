@@ -1,0 +1,22 @@
+{
+  "serverName": "Smudgy.store",
+  "serverId": "1487795704989487196",
+  "generatedAt": "2026-05-25T16:39:55.805Z",
+  "totalMembers": 1,
+  "summary": {
+    "linked": 1,
+    "unlinked": 0
+  },
+  "linkedAccounts": [
+    {
+      "name": "Akuma",
+      "username": "console.dev",
+      "discordId": "1169111190824308768",
+      "shortId": "Y2OOB2",
+      "booster": false,
+      "badgeCount": 0,
+      "hasGradient": false
+    }
+  ],
+  "unlinkedAccounts": []
+}

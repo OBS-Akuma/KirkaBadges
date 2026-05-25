@@ -1,13 +1,53 @@
 {
   "serverName": "Smudgy.store",
   "serverId": "1487795704989487196",
-  "generatedAt": "2026-05-25T16:43:37.931Z",
-  "totalMembers": 1,
+  "generatedAt": "2026-05-25T16:44:55.346Z",
+  "totalMembers": 74,
   "summary": {
-    "linked": 1,
-    "unlinked": 0
+    "linked": 30,
+    "unlinked": 44
   },
   "linkedAccounts": [
+    {
+      "name": "1",
+      "username": "weichia._.",
+      "discordId": "1219611751650431039",
+      "shortId": "JNLJS7",
+      "booster": false,
+      "badgeCount": 0
+    },
+    {
+      "name": "4GETU",
+      "username": "miku_ch342",
+      "discordId": "1405781783974379540",
+      "shortId": "VVUQRY",
+      "booster": false,
+      "badgeCount": 1
+    },
+    {
+      "name": "7.q",
+      "username": "cqrsonlf",
+      "discordId": "943374092466262036",
+      "shortId": "CARSON",
+      "booster": false,
+      "badgeCount": 1
+    },
+    {
+      "name": "Ab4/yt",
+      "username": "ab4yt",
+      "discordId": "1039925878043447367",
+      "shortId": "G1Y1CB",
+      "booster": false,
+      "badgeCount": 0
+    },
+    {
+      "name": "ABUZAR",
+      "username": "rana_g7583",
+      "discordId": "1205826507889451029",
+      "shortId": "WANTED",
+      "booster": false,
+      "badgeCount": 0
+    },
     {
       "name": "Akuma",
       "username": "console.dev",
@@ -15,7 +55,420 @@
       "shortId": "Y2OOB2",
       "booster": false,
       "badgeCount": 0
+    },
+    {
+      "name": "𝓑𝓻𝓲𝓵𝓵𝓲𝓪𝓷𝓽 𝓦𝓲𝔃𝓪𝓻",
+      "username": "j999_17974",
+      "discordId": "1439514619218755585",
+      "shortId": "FFAHG8",
+      "booster": false,
+      "badgeCount": 0
+    },
+    {
+      "name": "ClownPierce(Poker)🃏",
+      "username": "clownpierce75",
+      "discordId": "1448672768995627028",
+      "shortId": "SQFI19",
+      "booster": false,
+      "badgeCount": 0
+    },
+    {
+      "name": "Cripette",
+      "username": "kirkacrip_ez",
+      "discordId": "1356746468148379839",
+      "shortId": "CRIPPY",
+      "booster": false,
+      "badgeCount": 0
+    },
+    {
+      "name": "Dev",
+      "username": "glowing_dev",
+      "discordId": "498010915355099146",
+      "shortId": "UVPDN2",
+      "booster": false,
+      "badgeCount": 0
+    },
+    {
+      "name": "𝔇𝔬𝔤𝔞𝔱𝔱𝔦_𝕲𝖍𝖔𝖘𝖙Dog",
+      "username": "x_dogtraordinary",
+      "discordId": "1438883226067140739",
+      "shortId": "MST5WM",
+      "booster": false,
+      "badgeCount": 0
+    },
+    {
+      "name": "graywing",
+      "username": "i_love_glaive",
+      "discordId": "1427472172217012345",
+      "shortId": "YCUVWY",
+      "booster": false,
+      "badgeCount": 1
+    },
+    {
+      "name": "hanma",
+      "username": "shangs_ok",
+      "discordId": "1146054099448639588",
+      "shortId": "AE56MU",
+      "booster": false,
+      "badgeCount": 0
+    },
+    {
+      "name": "ɦρℓ.",
+      "username": "harrypotter0629._85152",
+      "discordId": "1305730473145794570",
+      "shortId": "ARQ1L4",
+      "booster": false,
+      "badgeCount": 0
+    },
+    {
+      "name": "ItzΛriez",
+      "username": "juba_1304",
+      "discordId": "1298623218516758533",
+      "shortId": "VVUQRY",
+      "booster": false,
+      "badgeCount": 0
+    },
+    {
+      "name": "izzybop",
+      "username": "kendrickkirka3",
+      "discordId": "1294464124410921011",
+      "shortId": "E3B4ZW",
+      "booster": false,
+      "badgeCount": 0
+    },
+    {
+      "name": "Jolly Duck",
+      "username": "jollyducky",
+      "discordId": "776091563558043648",
+      "shortId": "QW950O",
+      "booster": false,
+      "badgeCount": 0
+    },
+    {
+      "name": "Saint",
+      "username": "s4intt._.01",
+      "discordId": "1348466917689528353",
+      "shortId": "5ZCHYI",
+      "booster": false,
+      "badgeCount": 1
+    },
+    {
+      "name": "skii",
+      "username": ".skii7",
+      "discordId": "798214609789124608",
+      "shortId": "MURDER",
+      "booster": false,
+      "badgeCount": 0
+    },
+    {
+      "name": "slicer",
+      "username": "omgitsslicer",
+      "discordId": "1105559682120175677",
+      "shortId": "ICR014",
+      "booster": false,
+      "badgeCount": 0
+    },
+    {
+      "name": "SmileOnCamera",
+      "username": "smile_on_camera",
+      "discordId": "1112785650505220206",
+      "shortId": "WM5JP0",
+      "booster": false,
+      "badgeCount": 0
+    },
+    {
+      "name": "snipe",
+      "username": "isnipe.fps",
+      "discordId": "1163145367676788856",
+      "shortId": "EWMN71",
+      "booster": false,
+      "badgeCount": 0
+    },
+    {
+      "name": "Sylk",
+      "username": "entixx_",
+      "discordId": "1135930563396649001",
+      "shortId": "7FRZOY",
+      "booster": false,
+      "badgeCount": 1
+    },
+    {
+      "name": "TheHarveyMan",
+      "username": "thhrvymn",
+      "discordId": "1353571756157308957",
+      "shortId": "5QL4VP",
+      "booster": false,
+      "badgeCount": 1
+    },
+    {
+      "name": "uhh",
+      "username": "ahahahaillkillyou",
+      "discordId": "1440631124039700562",
+      "shortId": "CHRIST",
+      "booster": false,
+      "badgeCount": 0
+    },
+    {
+      "name": "xzronx",
+      "username": "xzronx",
+      "discordId": "1197548264535376013",
+      "shortId": "2I5XG5",
+      "booster": false,
+      "badgeCount": 0
+    },
+    {
+      "name": "YipHerng",
+      "username": "yipherng",
+      "discordId": "1415989116688142366",
+      "shortId": "TTTVBJ",
+      "booster": false,
+      "badgeCount": 1
+    },
+    {
+      "name": "乂卩乇尺ㄒ",
+      "username": "tooexpert",
+      "discordId": "728104078428733452",
+      "shortId": "FUYR7K",
+      "booster": false,
+      "badgeCount": 1
+    },
+    {
+      "name": "芮郁",
+      "username": "luvqiao",
+      "discordId": "1039475210203705374",
+      "shortId": "YZ9QEX",
+      "booster": false,
+      "badgeCount": 0
+    },
+    {
+      "name": "葬送的可達鴨",
+      "username": "psyducklin418",
+      "discordId": "1287198619761512479",
+      "shortId": "YZE9GU",
+      "booster": false,
+      "badgeCount": 0
     }
   ],
-  "unlinkedAccounts": []
+  "unlinkedAccounts": [
+    {
+      "name": "! Ｘｅｎｏ",
+      "username": "itz_xeno_74",
+      "discordId": "1434476722912235550"
+    },
+    {
+      "name": "....",
+      "username": "tryingtoplay",
+      "discordId": "999722396246347886"
+    },
+    {
+      "name": "☆hoshiko",
+      "username": "imnotkoolkid2",
+      "discordId": "884448772694876191"
+    },
+    {
+      "name": "$overeigen",
+      "username": "peace_be",
+      "discordId": "1394732893808361747"
+    },
+    {
+      "name": "1player858",
+      "username": "1player858",
+      "discordId": "1338194349762019329"
+    },
+    {
+      "name": "Apagnan",
+      "username": "pinkmongoose_",
+      "discordId": "1286375192729485443"
+    },
+    {
+      "name": "BL4Z3",
+      "username": "sanskariak2773",
+      "discordId": "1400409336924340305"
+    },
+    {
+      "name": "blezz",
+      "username": ".blezz",
+      "discordId": "1225537561615929364"
+    },
+    {
+      "name": "C.O.G",
+      "username": "follower_christ",
+      "discordId": "1343295603114774589"
+    },
+    {
+      "name": "CEPHAS",
+      "username": "c3ph4s",
+      "discordId": "1436101589998895185"
+    },
+    {
+      "name": "clouds",
+      "username": "lunarxrs",
+      "discordId": "1431644626363875370"
+    },
+    {
+      "name": "CutiePie",
+      "username": "cutie7ie",
+      "discordId": "1246774517389590558"
+    },
+    {
+      "name": "daxta_v2(m)",
+      "username": "daxtat_45056",
+      "discordId": "1218275090458738739"
+    },
+    {
+      "name": "Dom :)",
+      "username": "dom_6537",
+      "discordId": "1250556926597533889"
+    },
+    {
+      "name": "DreadFlats",
+      "username": "dreadflats",
+      "discordId": "1408053468920283238"
+    },
+    {
+      "name": "ET ∞ UN_Lucky",
+      "username": "un_lucky1362",
+      "discordId": "1402541223193088080"
+    },
+    {
+      "name": "Fire_Nova",
+      "username": "7fire_nova",
+      "discordId": "1422973301277331517"
+    },
+    {
+      "name": "Ghost",
+      "username": "gho.5t",
+      "discordId": "1269231323613106256"
+    },
+    {
+      "name": "God is the absolute Goat",
+      "username": "selvercarries",
+      "discordId": "1387242864710521003"
+    },
+    {
+      "name": "good",
+      "username": "goood__111",
+      "discordId": "1380968971439968366"
+    },
+    {
+      "name": "Human",
+      "username": "1human9",
+      "discordId": "1396194392435327200"
+    },
+    {
+      "name": "HUYHUE",
+      "username": "huyhue_47640",
+      "discordId": "1165284527577514057"
+    },
+    {
+      "name": "inhuman",
+      "username": "strikeslovecat_friendly",
+      "discordId": "1267698214623117372"
+    },
+    {
+      "name": "King",
+      "username": "kingishere.14",
+      "discordId": "1487087700124242123"
+    },
+    {
+      "name": "𝕃𝕖𝕠_𝕩𝕥𝕔",
+      "username": "fumbling_leo",
+      "discordId": "1488163284312916090"
+    },
+    {
+      "name": "m1o_",
+      "username": "m1o_.",
+      "discordId": "838522398708989995"
+    },
+    {
+      "name": "Minicables",
+      "username": "minicables_pro",
+      "discordId": "1131945922008457286"
+    },
+    {
+      "name": "N1TR0",
+      "username": "n1tr0_sm00th1e_23168",
+      "discordId": "1425758708247429230"
+    },
+    {
+      "name": "Obito",
+      "username": "riniii._",
+      "discordId": "1412749733897699371"
+    },
+    {
+      "name": "rasmus",
+      "username": "rasmus.exe13",
+      "discordId": "1220178214928781435"
+    },
+    {
+      "name": "Rennosuke is very cooked",
+      "username": "skibidiohbioisthebest69",
+      "discordId": "1185571305081274409"
+    },
+    {
+      "name": "𝐒𝐇𝐄𝐋𝐋",
+      "username": "i_wish_everyone_is_friendly",
+      "discordId": "1113450699943051396"
+    },
+    {
+      "name": "silly",
+      "username": "pauba102_87434",
+      "discordId": "1328751524473606227"
+    },
+    {
+      "name": "Slowy",
+      "username": "biglilslowy",
+      "discordId": "1158941579298488410"
+    },
+    {
+      "name": "SoulMate",
+      "username": "soulmate.123",
+      "discordId": "1396291387837780009"
+    },
+    {
+      "name": "SP!CY",
+      "username": "spicy_chan",
+      "discordId": "1262396856927912028"
+    },
+    {
+      "name": "Tai",
+      "username": "syndicate_56771",
+      "discordId": "1345699154969624647"
+    },
+    {
+      "name": "Tier 1 Mobile",
+      "username": "axo123456",
+      "discordId": "1148052929916448798"
+    },
+    {
+      "name": "Trust",
+      "username": ".trustme.",
+      "discordId": "1076600865588248617"
+    },
+    {
+      "name": "vlaims",
+      "username": "vlaims",
+      "discordId": "1325376607577178123"
+    },
+    {
+      "name": "Your_Assistant",
+      "username": "faith.123",
+      "discordId": "1269697133532020853"
+    },
+    {
+      "name": "Your_Daddy_Here",
+      "username": "your_daddy_here.",
+      "discordId": "1269244390816092214"
+    },
+    {
+      "name": "Zoroark⊹",
+      "username": "4izennk",
+      "discordId": "1485587970521301053"
+    },
+    {
+      "name": "µsεr",
+      "username": "patorostizadoporuncoche",
+      "discordId": "1275162241561526365"
+    }
+  ]
 }

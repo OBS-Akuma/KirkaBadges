@@ -2019,6 +2019,9 @@
    {
       "shortId": "6ONZGP",
       "discord": "884448772694876191",
-      "booster": false
+      "booster": false,
+      "badges": [
+         "https://raw.githubusercontent.com/imnotkoolkid/OBSIDIAN-CLIENT/refs/heads/main/assets/Obsidian%20Client.png.link"
+      ]
    }
 ]

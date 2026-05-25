@@ -13,7 +13,8 @@
          ]
       },
       "badges": [
-         "https://raw.githubusercontent.com/OBS-Akuma/KirkaBadges/refs/heads/main/Json/img/image.webp"
+         "https://raw.githubusercontent.com/OBS-Akuma/KirkaBadges/refs/heads/main/Json/img/image.webp",
+         "https://cdn3.emoji.gg/emojis/9224-betatesterlab.png"
       ]
    },
    {
@@ -2005,7 +2006,12 @@
       "booster": false
    },
    {
-      "shortId": "AWESOME",
+      "shortId": "SQFI19",
+      "discord": "1448672768995627028",
+      "booster": false
+   },
+   {
+      "shortId": "AWSOME",
       "discord": "771601176155783198",
       "booster": false
    }

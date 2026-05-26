@@ -2009,5 +2009,10 @@
       "badges": [
          "https://raw.githubusercontent.com/imnotkoolkid/OBSIDIAN-CLIENT/refs/heads/main/assets/Obsidian%20Client.png"
       ]
+   },
+   {
+      "shortId": "HUMBLE",
+      "discord": "1267859041753894954",
+      "booster": false
    }
 ]

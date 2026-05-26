@@ -79,7 +79,8 @@
       "booster": false,
       "badges": [
          "https://badges.vencord.dev/badges/1311164671931322409/7-538e389102103bb320f738e5f9f356fec8292c43.webp"
-      ]
+      ],
+      "discord": "1405781783974379540"
    },
    {
       "discord": "757969611236048967",
@@ -2014,5 +2015,13 @@
       "shortId": "AWSOME",
       "discord": "771601176155783198",
       "booster": false
+   },
+   {
+      "shortId": "6ONZGP",
+      "discord": "884448772694876191",
+      "booster": false,
+      "badges": [
+         "https://raw.githubusercontent.com/imnotkoolkid/OBSIDIAN-CLIENT/refs/heads/main/assets/Obsidian%20Client.png"
+      ]
    }
 ]

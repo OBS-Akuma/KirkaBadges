@@ -210,20 +210,7 @@
       "shortId": "MEXICO",
       "booster": false,
       "font": "https://fonts.googleapis.com/css2?family=Bungee&display=swap",
-      "gradient": {
-         "rot": "90deg",
-         "stops": [
-            "#FF0000",
-            "#FF7F00",
-            "#FFFF00",
-            "#00FF00",
-            "#0000FF",
-            "#4B0082",
-            "#8B00FF"
-         ]
-      },
       "badges": [
-         "https://daymian-flow.netlify.app/imgs/flow.jpg",
          "https://irrvlo.xyz/ss03.png"
       ]
    },

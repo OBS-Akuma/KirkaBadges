@@ -123,16 +123,17 @@
       "gradient": {
          "rot": "90deg",
          "stops": [
-            "#FFFFFF 50%",
-            "#000000 50%",
-            "#878787 100%"
-         ],
-         "shadow": "0px 0px 2px rgb(0, 0, 0)"
+            "#8c1d3e 0%",
+            "#e0c200 25%",
+            "#8c1d3e 50%",
+            "#e0c200 75%",
+            "#8c1d3e 100%"
+         ]
       },
       "animated": true,
       "badges": [
-         "https://i.imgur.com/Hz960DQ.png",
-         "https://i.imgur.com/bU2R4aS.png"
+         "https://raw.githubusercontent.com/OBS-Akuma/KirkaBadges/refs/heads/main/Json/img/rosybadge1.webp",
+         "https://raw.githubusercontent.com/OBS-Akuma/KirkaBadges/refs/heads/main/Json/img/rosybadge2.webp"
       ],
       "discord": "1219721963233218741",
       "booster": false

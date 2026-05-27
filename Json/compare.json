@@ -55,8 +55,7 @@
          ]
       },
       "badges": [
-         "https://raw.githubusercontent.com/OBS-Akuma/KirkaBadges/refs/heads/main/Json/img/ogu.png",
-         "https://raw.githubusercontent.com/OBS-Akuma/KirkaSkins/refs/heads/main/img/G1Y1CB.gif"
+         "https://raw.githubusercontent.com/OBS-Akuma/KirkaBadges/refs/heads/main/Json/img/ogu.png"
       ]
    },
    {
@@ -134,7 +133,9 @@
       "badges": [
          "https://i.imgur.com/Hz960DQ.png",
          "https://i.imgur.com/bU2R4aS.png"
-      ]
+      ],
+      "discord": "1219721963233218741",
+      "booster": false
    },
    {
       "discord": "1427472172217012345",
@@ -2010,5 +2011,10 @@
       "badges": [
          "https://raw.githubusercontent.com/imnotkoolkid/OBSIDIAN-CLIENT/refs/heads/main/assets/Obsidian%20Client.png"
       ]
+   },
+   {
+      "shortId": "HUMBLE",
+      "discord": "1267859041753894954",
+      "booster": false
    }
 ]

@@ -82,7 +82,7 @@
       "discord": "1405781783974379540"
    },
    {
-      "discord": "",
+      "discord": "757969611236048967",
       "shortId": "POOKIE",
       "booster": false,
       "badges": [
@@ -2017,5 +2017,11 @@
       "shortId": "HUMBLE",
       "discord": "1267859041753894954",
       "booster": false
+   },
+   {
+      "shortId": "CASINO",
+      "badges": [
+         "https://raw.githubusercontent.com/OBS-Akuma/KirkaBadges/refs/heads/main/Json/img/Squirt.png"
+      ]
    }
 ]

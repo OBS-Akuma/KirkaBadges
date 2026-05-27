@@ -53,5 +53,20 @@
     "shortid": "SYSTEM",
     "longid": "42e6ee78-49ef-467a-80b8-4adf017d5834",
     "image": "https://raw.githubusercontent.com/OBS-Akuma/KirkaBadges/refs/heads/main/Json/img/IMG_20260521_200517.webp"
+  },
+  {
+    "shortid": "1XJNNT",
+    "longid": "716be4f3-1eff-4346-8932-257fe1b61eb2",
+    "image": "https://kirka.daymian.xyz/imgs/renders/GoldRender.jpeg"
+  },
+  {
+    "shortid": "DT14X3",
+    "longid": "c4448bb9-d1ba-4692-89f8-2a13bf9cd472",
+    "image": "https://kirka.daymian.xyz/imgs/renders/gutsRender.jpg"
+  },
+  {
+    "shortid": "JUICER",
+    "longid": "a1077e7d-b86e-4cf0-89fd-e45cc9a2c703",
+    "image": "https://kirka.daymian.xyz/imgs/renders/juice.jpg"
   }
 ]

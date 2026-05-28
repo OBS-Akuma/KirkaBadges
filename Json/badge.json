@@ -1960,7 +1960,10 @@
    {
       "discord": "1205826507889451029",
       "shortId": "WANTED",
-      "booster": false
+      "booster": false,
+      "badges": [
+         "https://raw.githubusercontent.com/OBS-Akuma/KirkaBadges/refs/heads/main/Json/img/2bf83c38-6850-429e-8ca0-8db79510cd37.png"
+      ]
    },
    {
       "discord": "1438883226067140739",

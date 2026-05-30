@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Clash",
+    "modes": ["1v1"],
+    "file": "https://ktiers.com/maps/files/Clash.txt",
+    "image": "https://ktiers.com/imgs/maps/Clash.png"
+  },
+  {
+    "name": "Arena",
+    "modes": ["1v1"],
+    "file": "https://ktiers.com/maps/files/Arena.txt",
+    "image": "https://ktiers.com/imgs/maps/Arena.png"
+  },
+  {
+    "name": "Lodge",
+    "modes": ["2v2"],
+    "file": "https://ktiers.com/maps/files/Lodge.txt",
+    "image": "https://ktiers.com/imgs/maps/Lodge.png"
+  },
+  {
+    "name": "Cove",
+    "modes": ["2v2"],
+    "file": "https://ktiers.com/maps/files/Cove.txt",
+    "image": "https://ktiers.com/imgs/maps/Cove.png"
+  },
+  {
+    "name": "Hearth",
+    "modes": ["2v2", "3v3"],
+    "file": "https://ktiers.com/maps/files/Hearth.txt",
+    "image": "https://ktiers.com/imgs/maps/Hearth.png"
+  },
+  {
+    "name": "Dust",
+    "modes": ["2v2"],
+    "file": "https://ktiers.com/maps/files/Dust.txt",
+    "image": "https://ktiers.com/imgs/maps/Dust.png"
+  },
+  {
+    "name": "Frontier",
+    "modes": ["2v2", "3v3"],
+    "file": "https://ktiers.com/maps/files/Frontier.txt",
+    "image": "https://ktiers.com/imgs/maps/Frontier.png"
+  },
+  {
+    "name": "Workshop",
+    "modes": ["2v2", "3v3"],
+    "file": "https://ktiers.com/maps/files/Workshop.txt",
+    "image": "https://ktiers.com/imgs/maps/Workshop.png"
+  },
+  {
+    "name": "Ruins",
+    "modes": ["2v2", "3v3"],
+    "file": "https://ktiers.com/maps/files/Ruins.txt",
+    "image": "https://ktiers.com/imgs/maps/Ruins.png"
+  },
+  {
+    "name": "Sandstorm",
+    "modes": ["2v2", "3v3"],
+    "file": "https://ktiers.com/maps/files/Sandstorm.txt",
+    "image": "https://ktiers.com/imgs/maps/Sandstorm.png"
+  }
+]

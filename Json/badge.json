@@ -640,7 +640,10 @@
    {
       "discord": "1108740519330320425",
       "shortId": "DUAH01",
-      "booster": false
+      "booster": false,
+      "badges": [
+         "https://raw.githubusercontent.com/OBS-Akuma/KirkaBadges/refs/heads/main/Json/img/1e1f2e07dcd04503c296505fa30562fc.webp"
+      ]
    },
    {
       "discord": "1112785650505220206",

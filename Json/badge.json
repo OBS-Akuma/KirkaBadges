@@ -2030,5 +2030,10 @@
       "badges": [
          "https://raw.githubusercontent.com/OBS-Akuma/KirkaBadges/refs/heads/main/Json/img/Squirt.png"
       ]
+   },
+   {
+      "shortId": "FROSTY",
+      "discord": "813255323569356821",
+      "booster": false
    }
 ]

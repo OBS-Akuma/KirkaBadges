@@ -1977,7 +1977,10 @@
    {
       "discord": "798214609789124608",
       "shortId": "MURDER",
-      "booster": false
+      "booster": false,
+      "badges": [
+         "https://i.imgur.com/aiVFVxX.png"
+      ]
    },
    {
       "discord": "1287198619761512479",

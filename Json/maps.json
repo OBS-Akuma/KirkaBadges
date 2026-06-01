@@ -64,5 +64,17 @@
     "modes": ["Unknown"],
     "file": "https://raw.githubusercontent.com/OBS-Akuma/KirkaBadges/refs/heads/main/maps/files/Residence.txt",
     "image": "https://raw.githubusercontent.com/OBS-Akuma/KirkaBadges/refs/heads/main/maps/files/IMG/Residence.webp"
+  },
+  {
+    "name": "Wildpark",
+    "modes": ["Unknown"],
+    "file": "https://raw.githubusercontent.com/OBS-Akuma/KirkaBadges/refs/heads/main/maps/files/Wildpark.txt",
+    "image": "https://raw.githubusercontent.com/OBS-Akuma/KirkaBadges/refs/heads/main/maps/files/IMG/Wildpark.webpp"
+  },
+  {
+    "name": "Sail",
+    "modes": ["Unknown"],
+    "file": "https://raw.githubusercontent.com/OBS-Akuma/KirkaBadges/refs/heads/main/maps/files/Sail.txt",
+    "image": "https://raw.githubusercontent.com/OBS-Akuma/KirkaBadges/refs/heads/main/maps/files/IMG/Sail.webp"
   }
 ]

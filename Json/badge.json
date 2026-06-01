@@ -2026,7 +2026,10 @@
    {
       "shortId": "HUMBLE",
       "discord": "1267859041753894954",
-      "booster": false
+      "booster": false,
+      "badges": [
+         "https://cdn3.emoji.gg/emojis/605187-goat.png"
+      ]
    },
    {
       "shortId": "CASINO",

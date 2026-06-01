@@ -21,7 +21,7 @@
       "booster": false,
       "font": "https://raw.githubusercontent.com/imnotkoolkid/KCH/main/resources/obs-page/Minecraft.ttf",
       "gradient": {
-         "rot": "135deg",
+         "rot": "to top",
          "stops": [
             "#ffffff",
             "#1A8E50"

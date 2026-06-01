@@ -58,5 +58,11 @@
     "modes": ["2v2", "3v3"],
     "file": "https://ktiers.com/maps/files/Sandstorm.txt",
     "image": "https://ktiers.com/imgs/maps/Sandstorm.png"
+  },
+  {
+    "name": "Residence",
+    "modes": ["Unknown"],
+    "file": "https://raw.githubusercontent.com/OBS-Akuma/KirkaBadges/refs/heads/main/maps/files/Residence.txt",
+    "image": "https://raw.githubusercontent.com/OBS-Akuma/KirkaBadges/refs/heads/main/maps/files/IMG/Residence.webp"
   }
 ]

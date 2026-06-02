@@ -1452,7 +1452,10 @@
    {
       "discord": "715620448959725598",
       "shortId": "DT14X3",
-      "booster": false
+      "booster": false,
+      "badges": [
+         "https://raw.githubusercontent.com/OBS-Akuma/KirkaBadges/refs/heads/main/Json/img/322-3228554_open-google-snake-emoji.png"
+      ]
    },
    {
       "discord": "717100012793757726",

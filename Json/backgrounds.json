@@ -1,0 +1,332 @@
+{
+  "success": true,
+  "banners": [
+    {
+      "id": "8af1a5e11ffcee89",
+      "kirkaId": "1XJNNT",
+      "userLongId": "716be4f3-1eff-4346-8932-257fe1b61eb2",
+      "imageUrl": "https://kirka.daymian.xyz/imgs/renders/GoldRender.jpeg",
+      "equipped": true,
+      "createdAt": {
+        "_seconds": 1779916674,
+        "_nanoseconds": 706000000
+      },
+      "dimensions": null,
+      "status": "approved"
+    },
+    {
+      "id": "5be05195bf3afbb3",
+      "kirkaId": "5ZCHYI",
+      "userLongId": "3cd39bca-fb4d-4024-bf72-57d747f9a75f",
+      "imageUrl": "https://iili.io/C3WquAF.jpg",
+      "equipped": true,
+      "createdAt": "2026-05-31T12:04:10.892Z",
+      "dimensions": {
+        "height": 413,
+        "width": 735
+      },
+      "status": "approved"
+    },
+    {
+      "id": "a90ba8d48cf56e70",
+      "kirkaId": "89JB9Z",
+      "userLongId": "a3fb0364-854c-4ad8-8217-996ea9d9cda5",
+      "imageUrl": "https://iili.io/C3Wd93X.jpg",
+      "equipped": true,
+      "createdAt": "2026-05-31T11:58:48.880Z",
+      "dimensions": {
+        "height": 414,
+        "width": 736
+      },
+      "status": "approved"
+    },
+    {
+      "id": "bbbe04a861f97f1e",
+      "kirkaId": "DUAH01",
+      "userLongId": "49050550-613c-451c-a874-f23ebab64fe7",
+      "imageUrl": "https://iili.io/C2Oat9f.jpg",
+      "equipped": true,
+      "createdAt": "2026-05-29T05:03:53.799Z",
+      "dimensions": {
+        "width": 736,
+        "height": 414
+      },
+      "status": "approved"
+    },
+    {
+      "id": "b0016ada7006283c",
+      "kirkaId": "2R9DP4",
+      "userLongId": "31b161cf-a73a-4fdb-9436-e21c517fc12f",
+      "imageUrl": "https://iili.io/C2NcCI2.png",
+      "equipped": true,
+      "createdAt": "2026-05-29T04:17:10.722Z",
+      "dimensions": {
+        "height": 863,
+        "width": 1366
+      },
+      "status": "approved"
+    },
+    {
+      "id": "77161bb3ec9ca2a7",
+      "kirkaId": "5QK4S3",
+      "userLongId": "759f4122-ef7d-41cd-8b1e-ccb5e5028d92",
+      "imageUrl": "https://iili.io/C2VLEla.webp",
+      "equipped": true,
+      "createdAt": "2026-05-28T20:33:38.808Z",
+      "dimensions": {
+        "height": 524,
+        "width": 836
+      },
+      "status": "approved"
+    },
+    {
+      "id": "ad5efbe47edee39e",
+      "kirkaId": "99KI3O",
+      "userLongId": "44000ee7-74ef-402c-8347-94038f162411",
+      "imageUrl": "https://media.istockphoto.com/id/1485656060/vector/yellow-instant-noodle-pasta-and-spaghetti.jpg?s=612x612&w=0&k=20&c=ER1bdLRuZw7jlN_OHado8Jga8CLTsSCOB_jY1ProoZM=",
+      "equipped": true,
+      "createdAt": {
+        "_seconds": 1779916617,
+        "_nanoseconds": 528000000
+      },
+      "dimensions": null,
+      "status": "approved"
+    },
+    {
+      "id": "96ae417b6cd8f2fb",
+      "kirkaId": "CASINO",
+      "userLongId": "7b609f0d-49c0-45b7-b15d-9934489db3d9",
+      "imageUrl": "https://cdn.discordapp.com/emojis/1251341798656315402.webp?size=96",
+      "equipped": true,
+      "createdAt": {
+        "_seconds": 1780166933,
+        "_nanoseconds": 324000000
+      },
+      "dimensions": null,
+      "status": "approved"
+    },
+    {
+      "id": "21f9e68acbcb1eb6",
+      "kirkaId": "CAYDUB",
+      "userLongId": "cfa592a0-8e15-4843-aa77-c9af3239281a",
+      "imageUrl": "https://raw.githubusercontent.com/OBS-Akuma/KirkaBadges/refs/heads/main/Json/img/banner_1779858572070_CAYDUB.webp",
+      "equipped": true,
+      "createdAt": {
+        "_seconds": 1779916660,
+        "_nanoseconds": 187000000
+      },
+      "dimensions": null,
+      "status": "approved"
+    },
+    {
+      "id": "6a83f179e848e332",
+      "kirkaId": "DT14X3",
+      "userLongId": "c4448bb9-d1ba-4692-89f8-2a13bf9cd472",
+      "imageUrl": "https://kirka.daymian.xyz/imgs/renders/gutsRender.jpg",
+      "equipped": true,
+      "createdAt": {
+        "_seconds": 1779916683,
+        "_nanoseconds": 597000000
+      },
+      "dimensions": null,
+      "status": "approved"
+    },
+    {
+      "id": "4ad05eb57470148f",
+      "kirkaId": "G1Y1CB",
+      "userLongId": "54a39506-bd64-4374-84aa-53cc2ecd99bb",
+      "imageUrl": "https://raw.githubusercontent.com/OBS-Akuma/KirkaSkins/refs/heads/main/img/G1Y1CB.gif",
+      "equipped": true,
+      "createdAt": {
+        "_seconds": 1779916626,
+        "_nanoseconds": 933000000
+      },
+      "dimensions": null,
+      "status": "approved"
+    },
+    {
+      "id": "a82fb3fc121c3c3f",
+      "kirkaId": "GLAIVE",
+      "userLongId": "055775a9-3cef-45f5-909d-4052bc6388dc",
+      "imageUrl": "https://raw.githubusercontent.com/OBS-Akuma/KirkaBadges/refs/heads/main/Json/img/banner_1779838572070_GLAIVE.webp",
+      "equipped": true,
+      "createdAt": {
+        "_seconds": 1779916647,
+        "_nanoseconds": 863000000
+      },
+      "dimensions": null,
+      "status": "approved"
+    },
+    {
+      "id": "5baa46100a081993",
+      "kirkaId": "JUICER",
+      "userLongId": "a1077e7d-b86e-4cf0-89fd-e45cc9a2c703",
+      "imageUrl": "https://kirka.daymian.xyz/imgs/renders/juice.jpg",
+      "equipped": true,
+      "createdAt": {
+        "_seconds": 1779916688,
+        "_nanoseconds": 415000000
+      },
+      "dimensions": null,
+      "status": "approved"
+    },
+    {
+      "id": "fb0220014add910c",
+      "kirkaId": "KV1G8M",
+      "userLongId": "ee9d8d46-d6d2-4a7c-abca-29a85ec0808a",
+      "imageUrl": "https://t3.ftcdn.net/jpg/03/45/16/98/240_F_345169850_blsuxWypbn8F8mujbCG5qVzCrxssclB4.jpg",
+      "equipped": true,
+      "createdAt": {
+        "_seconds": 1779916640,
+        "_nanoseconds": 325000000
+      },
+      "dimensions": null,
+      "status": "approved"
+    },
+    {
+      "id": "47260edcd66d8ae0",
+      "kirkaId": "R107G2",
+      "userLongId": "59a3658f-13b4-4e34-b0e2-d128349cbc23",
+      "imageUrl": "https://iili.io/C3UnQ14.png",
+      "equipped": true,
+      "createdAt": "2026-05-31T23:00:18.593Z",
+      "dimensions": {
+        "width": 1254,
+        "height": 1254
+      },
+      "status": "approved"
+    },
+    {
+      "id": "d234295f5cbe017e",
+      "kirkaId": "OZUAT1",
+      "userLongId": "4a9f515a-7058-4534-877a-d09773f0f911",
+      "imageUrl": "https://iili.io/C2XAIWv.jpg",
+      "equipped": true,
+      "createdAt": "2026-05-28T23:01:21.567Z",
+      "dimensions": {
+        "height": 1080,
+        "width": 1920
+      },
+      "status": "approved"
+    },
+    {
+      "id": "877a7bee890f1c5d",
+      "kirkaId": "MEXICO",
+      "userLongId": "e6d2c874-7af9-4f32-b59d-c57e7df72599",
+      "imageUrl": "https://iili.io/C2WdGg2.gif",
+      "equipped": true,
+      "createdAt": "2026-05-28T20:53:53.069Z",
+      "dimensions": {
+        "width": 640,
+        "height": 366
+      },
+      "status": "approved"
+    },
+    {
+      "id": "abe5e7ce26e1c66b",
+      "kirkaId": "MURDER",
+      "userLongId": "56a8b9a7-8380-4f92-8096-9911526af256",
+      "imageUrl": "https://iili.io/C2BZUgI.png",
+      "equipped": true,
+      "createdAt": "2026-05-28T06:08:40.064Z",
+      "dimensions": {
+        "height": 976,
+        "width": 1611
+      },
+      "status": "approved"
+    },
+    {
+      "id": "4e9f3a0467c6db99",
+      "kirkaId": "NUGGET",
+      "userLongId": "7f2a6090-abcb-48a7-8838-88ee8111b261",
+      "imageUrl": "https://github.com/OBS-Akuma/smudgy-client/blob/main/src/assets/img/Froke_banner.webp?raw=true",
+      "equipped": true,
+      "createdAt": {
+        "_seconds": 1780311260,
+        "_nanoseconds": 855000000
+      },
+      "dimensions": null,
+      "status": "approved"
+    },
+    {
+      "id": "ac69e22ae65dc90d",
+      "kirkaId": "SYSTEM",
+      "userLongId": "42e6ee78-49ef-467a-80b8-4adf017d5834",
+      "imageUrl": "https://raw.githubusercontent.com/OBS-Akuma/KirkaBadges/refs/heads/main/Json/img/IMG_20260521_200517.webp",
+      "equipped": true,
+      "createdAt": {
+        "_seconds": 1779916669,
+        "_nanoseconds": 869000000
+      },
+      "dimensions": null,
+      "status": "approved"
+    },
+    {
+      "id": "f24f7588d0129e62",
+      "kirkaId": "TATTOO",
+      "userLongId": "e6d2c874-7af9-4f32-b59d-c57e7df72599",
+      "imageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/099ffb69-24f0-4904-a521-867f7d87e0d7-profile_banner-480.jpeg",
+      "equipped": true,
+      "createdAt": {
+        "_seconds": 1780022743,
+        "_nanoseconds": 376000000
+      },
+      "dimensions": null,
+      "status": "approved"
+    },
+    {
+      "id": "4949f30f1ef27377",
+      "kirkaId": "WERWER",
+      "userLongId": "60d9ed8e-0133-4d64-a837-c38322652118",
+      "imageUrl": "https://kirka.io/assets/img/__logo-winter__.ba294677.svg",
+      "equipped": false,
+      "createdAt": {
+        "_seconds": 1779916610,
+        "_nanoseconds": 207000000
+      },
+      "dimensions": null,
+      "status": "approved"
+    },
+    {
+      "id": "d45a442a490efee5",
+      "kirkaId": "WERWER",
+      "userLongId": "60d9ed8e-0133-4d64-a837-c38322652118",
+      "imageUrl": "https://raw.githubusercontent.com/OBS-Akuma/KirkaBadges/refs/heads/main/Json/img/werwer_banner_2.webp",
+      "equipped": true,
+      "createdAt": {
+        "_seconds": 1780124803,
+        "_nanoseconds": 359000000
+      },
+      "dimensions": null,
+      "status": "approved"
+    },
+    {
+      "id": "5c759530c15122ba",
+      "kirkaId": "YCUVWY",
+      "userLongId": "ffe01498-abc8-4508-b78b-38b168c40c4c",
+      "imageUrl": "https://raw.githubusercontent.com/OBS-Akuma/KirkaBadges/refs/heads/main/Json/img/banner_1779839276722_YCUVWY.webp",
+      "equipped": true,
+      "createdAt": {
+        "_seconds": 1779916652,
+        "_nanoseconds": 889000000
+      },
+      "dimensions": null,
+      "status": "approved"
+    },
+    {
+      "id": "a8b6711315bc9b17",
+      "kirkaId": "YIEDMJ",
+      "userLongId": "645164da-e39e-4d83-b8ea-0b0d1d80838c",
+      "imageUrl": "https://iili.io/C3jorNV.png",
+      "equipped": true,
+      "createdAt": "2026-05-31T14:46:42.568Z",
+      "dimensions": {
+        "height": 557,
+        "width": 883
+      },
+      "status": "approved"
+    }
+  ],
+  "totalBanners": 25,
+  "message": "Showing all approved and equipped banners from all users"
+}

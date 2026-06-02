@@ -2039,5 +2039,11 @@
       "shortId": "FROSTY",
       "discord": "813255323569356821",
       "booster": false
+   },
+   {
+      "shortId": "NOBODY",
+      "badges": [
+         "https://cdn3.emoji.gg/emojis/7758-nobody-here.png"
+      ]
    }
 ]

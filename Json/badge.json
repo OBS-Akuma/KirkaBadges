@@ -782,7 +782,10 @@
    {
       "discord": "1169111190824308768",
       "shortId": "Y2OOB2",
-      "booster": false
+      "booster": false,
+      "badges": [
+         "https://raw.githubusercontent.com/OBS-Akuma/KirkaBadges/refs/heads/main/Json/img/button-88x31.gif"
+      ]
    },
    {
       "discord": "1170305898195988533",
@@ -2047,12 +2050,6 @@
       "shortId": "NOBODY",
       "badges": [
          "https://cdn3.emoji.gg/emojis/7758-nobody-here.png"
-      ]
-   },
-   {
-      "shortId": "08BL8Q",
-      "badges": [
-         "https://raw.githubusercontent.com/OBS-Akuma/KirkaBadges/refs/heads/main/Json/img/standard2.gif"
       ]
    }
 ]

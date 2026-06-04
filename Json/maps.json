@@ -76,5 +76,11 @@
     "modes": ["Unknown"],
     "file": "https://raw.githubusercontent.com/OBS-Akuma/KirkaBadges/refs/heads/main/maps/files/Sail.txt",
     "image": "https://raw.githubusercontent.com/OBS-Akuma/KirkaBadges/refs/heads/main/maps/files/IMG/Sail.webp"
+  },
+  {
+    "name": "Nuke (Tournament Version)",
+    "modes": ["1v1"],
+    "file": "https://raw.githubusercontent.com/OBS-Akuma/KirkaBadges/refs/heads/main/maps/files/Nuke%20(Tournament%20Version).txt",
+    "image": "https://raw.githubusercontent.com/OBS-Akuma/KirkaBadges/refs/heads/main/maps/files/IMG/nuke.webp"
   }
 ]

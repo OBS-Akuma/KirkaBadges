@@ -2057,5 +2057,11 @@
       "badges": [
          "https://raw.githubusercontent.com/OBS-Akuma/KirkaBadges/refs/heads/main/Json/img/standard2.gif"
       ]
+   },
+   {
+      "shortId": "BOTTOM",
+      "badges": [
+         "https://cdn.discordapp.com/emojis/1438207009919860816.webp"
+      ]
    }
 ]

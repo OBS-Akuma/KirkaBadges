@@ -2065,11 +2065,6 @@
       ]
    },
    {
-      "shortId": "BJMC35",
-      "discord": "1236583030764601358",
-      "booster": false
-   },
-   {
       "discord": "1267859041753894954",
       "shortId": "SODASS",
       "booster": false,
@@ -2084,5 +2079,18 @@
          "shadow": "0px 0px 1.875rem rgba(18, 137, 167, 1);"
       },
       "badges": []
-   }
+   },
+   {
+      "shortId": "BJMC35",
+      "discord": "1236583030764601358",
+      "booster": false,
+      "gradient": {
+         "rot": "to top",
+         "stops": [
+            "#E5788F",
+            "#F5F3E8"
+         ]
+      },
+      "badges": []
+   },
 ]

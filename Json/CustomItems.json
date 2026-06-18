@@ -80,6 +80,30 @@
       }
     },
     "component": {
+      "class": "weapon-skin BAYONET",
+      "image": {
+        "src": "https://raw.githubusercontent.com/OBS-Akuma/KirkaBadges/refs/heads/main/Json/img/0f2p1ns.webp",
+        "texture": "https://raw.githubusercontent.com/OBS-Akuma/KirkaBadges/refs/heads/main/Json/img/Smudgy.webp",
+        "glb": "https://kirka.io/assets/glb/72ff033c69c7ac43d6252b8bb14e8d5e.glb",
+        "alt": "subject",
+        "class": "subj-img"
+      },
+      "bottomSection": {
+        "class": "bottom-subj",
+        "count": 1
+      }
+    },
+    "itemName": "Smudged"
+  },
+  {
+    "shortId": "NUGGET",
+    "raritySkin": {
+      "class": "rar-skin",
+      "style": {
+        "background": "linear-gradient(177.48deg, rgb(137, 4, 20) -5.29%, rgb(197, 6, 30) 101.55%)"
+      }
+    },
+    "component": {
       "class": "weapon-skin VITA",
       "image": {
         "src": "https://kirka.io/assets/img/render-mini.e0431f08.webp",

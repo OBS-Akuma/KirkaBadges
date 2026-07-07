@@ -2091,23 +2091,24 @@
          ]
       },
       "badges": [
-         "https://raw.githubusercontent.com/OBS-Akuma/KirkaBadges/refs/heads/main/Json/img/BJMC35.webp"
+         "https://raw.githubusercontent.com/OBS-Akuma/KirkaBadges/refs/heads/main/Json/img/BJMC35.webp",
+         "https://badges.vencord.dev/badges/383762950327894018/1-12b8dbb8443ba0067fe98de5a2ddba8951650b94.gif"
       ]
    },
    {
-  "shortId": "XMNVRX",
-  "gradient": {
-    "rot": "0deg",
-    "stops": [
-      "#FFFF00 0%",
-      "#0000FF 50%",
-      "#78FF00 100%"
-    ]
-  },
-  "badges": [
-    "https://em-content.zobj.net/source/apple/48/flag-for-brazil_1f1e7-1f1f7.png",
-    "https://raw.githubusercontent.com/OBS-Akuma/KirkaBadges/refs/heads/main/Json/img/images_17.webp"
-  ]
+      "shortId": "XMNVRX",
+      "gradient": {
+         "rot": "0deg",
+         "stops": [
+            "#FFFF00 0%",
+            "#0000FF 50%",
+            "#78FF00 100%"
+         ]
+      },
+      "badges": [
+         "https://em-content.zobj.net/source/apple/48/flag-for-brazil_1f1e7-1f1f7.png",
+         "https://raw.githubusercontent.com/OBS-Akuma/KirkaBadges/refs/heads/main/Json/img/images_17.webp"
+      ]
    },
    {
       "shortId": "7ZBHU4",
@@ -2121,7 +2122,7 @@
    },
    {
       "shortId": "3H2D6N",
-       "gradient": {
+      "gradient": {
          "rot": "0deg",
          "stops": [
             "#FFFFFF 0%",

@@ -2186,8 +2186,15 @@
    },
    {
       "shortId": "FALCON",
+      "gradient": {
+         "rot": "0deg",
+         "stops": [
+            "#FF3250"
+         ]
+      },
       "badges": [
-         "https://raw.githubusercontent.com/OBS-Akuma/KirkaBadges/refs/heads/main/Json/img/FALCON_2webp"
+         "https://raw.githubusercontent.com/OBS-Akuma/KirkaBadges/refs/heads/main/Json/img/FALCON_1.webp",
+         "https://raw.githubusercontent.com/OBS-Akuma/KirkaBadges/refs/heads/main/Json/img/FALCON_2.webp"
       ]
    }
 ]

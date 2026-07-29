@@ -2,28 +2,35 @@
   {
     "uuid": "MEXICO",
     "id": "ktiers-badge",
-    "img": "",
+    "img": "https://raw.githubusercontent.com/OBS-Akuma/KirkaBadges/refs/heads/main/Json/img/bottomimages/ktiers.webp",
     "title": "2026 KCL Participant",
     "date": "2026"
   },
   {
     "uuid": "G1Y1CB",
     "id": "kmm-badge",
-    "img": "",
+    "img": "https://raw.githubusercontent.com/OBS-Akuma/KirkaBadges/refs/heads/main/Json/img/bottomimages/kmm.webp",
+    "title": "Kirka middle men",
+    "date": "2025"
+  },
+  {
+    "uuid": "NUGGET",
+    "id": "kmm-badge",
+    "img": "https://raw.githubusercontent.com/OBS-Akuma/KirkaBadges/refs/heads/main/Json/img/bottomimages/kmm.webp",
     "title": "Kirka middle men",
     "date": "2025"
   },
   {
     "uuid": "MEXICO",
     "id": "11-badge",
-    "img": "",
+    "img": "https://raw.githubusercontent.com/OBS-Akuma/KirkaBadges/refs/heads/main/Json/img/bottomimages/1_1.webp",
     "title": "This user has a 1v1 item",
     "date": "unknown"
   },
   {
     "uuid": "NUGGET",
     "id": "redline_linked-badge",
-    "img": "",
+    "img": "https://raw.githubusercontent.com/OBS-Akuma/KirkaBadges/refs/heads/main/Json/img/bottomimages/redline_linkied.webp",
     "title": "Linked with the Redline client",
     "date": "2025"
   }

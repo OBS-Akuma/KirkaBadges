@@ -4,7 +4,7 @@
     "tt": "The owner + dev of the game"
   },
   {
-    "101, 230, 159": "Admin"
+    "101, 230, 159": "Admin",
     "tt": "The Verified Administrator of the game"
   },
   {
@@ -16,7 +16,7 @@
     "tt:": "Gives you the rewards for Things like tournaments"
   },
   {
-    "221, 80, 44": "Asset Manager"
+    "221, 80, 44": "Asset Manager",
     "tt": "Manages the Assets that come into the game"
   },
   {

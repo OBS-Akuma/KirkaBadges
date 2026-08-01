@@ -6,10 +6,13 @@
     "101, 230, 159": "Admin"
   },
   {
-    "196, 30, 58": "Payment manager"
+    "68, 255, 0": "Bug Finder"
   },
   {
-    "221, 80, 44": "Asset manager"
+    "196, 30, 58": "Payment Manager"
+  },
+  {
+    "221, 80, 44": "Asset Manager"
   },
   {
     "19, 162, 251": "Mod"

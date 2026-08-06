@@ -1,7 +1,7 @@
 [
   { "0, 0, 0": "Owner", "tt": "The owner + dev of the game" },
   { "101, 230, 159": "Admin", "tt": "The Verified Administrator of the game" },
-  { "68, 255, 0": "Bug Finder", "tt": "The verified Bug Huter of the game" },
+  { "102, 215, 60": "Bug Finder", "tt": "The verified Bug Huter of the game" },
   { "196, 30, 58": "Payment Manager", "tt": "Gives you the rewards for Things like tournaments" },
   { "221, 80, 44": "Asset Manager", "tt": "Manages the Assets that come into the game" },
   { "30, 0, 255": "3rd Party Developer", "tt": "Made a game of the game or something like it" },

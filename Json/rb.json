@@ -6,5 +6,6 @@
   { "221, 80, 44": "Asset Manager", "tt": "Manages the Assets that come into the game" },
   { "30, 0, 255": "3rd Party Developer", "tt": "Made a game of the game or something like it" },
   { "19, 162, 251": "Mod", "tt": "The Verified Moderator of the game" },
-  { "77, 154, 255": "Verified", "tt": "user was Verified for Consistently contribute to the game in a positive manner" }
+  { "77, 154, 255": "Verified", "tt": "user was Verified for Consistently contribute to the game in a positive manner" },
+  { "109, 150, 176": "Map Manager", "tt": "This user manages all maps that come into the game" }
 ]
